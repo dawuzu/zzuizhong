@@ -1,0 +1,13 @@
+/.classpath
+/.project
+/.settings/
+/AddMessage/
+/ButtonFrame/
+/Dao/
+/Entity/
+/JDBC/
+/Operation/
+/System/
+/TableAdministrator/
+/TableManager/
+/TableStudent/
